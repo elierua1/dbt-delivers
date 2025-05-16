@@ -1,0 +1,3 @@
+*.csv # all csvs will be ignored by git
+On mac OS: data/ # everything inside the data folder will be ignored by git
+On Windows OS: data\ # everything inside the data folder will be ignored by git
